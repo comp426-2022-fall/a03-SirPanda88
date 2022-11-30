@@ -1,0 +1,22 @@
+{
+  "name": "node-dice",
+  "version": "1.0.0",
+  "description": "a package to roll dice",
+  "main": "./lib/roll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a03-SirPanda88.git"
+  },
+  "author": "SirPanda88",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a03-SirPanda88/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a03-SirPanda88#readme",
+  "bin": {
+    "roll-dice": "./bin/cli.js"
+  }
+}
