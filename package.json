@@ -18,5 +18,6 @@
   "homepage": "https://github.com/comp426-2022-fall/a03-SirPanda88#readme",
   "bin": {
     "roll-dice": "./bin/cli.js"
-  }
+  },
+  "type": "module"
 }
