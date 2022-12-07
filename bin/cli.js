@@ -9,7 +9,7 @@ let rolls = 1;
 
 const args = minimist(process.argv.slice(2));
 
-if ("sides" in args) {
+if ('sides' in args) {
 	sides = args.sides;
 }
 if ("dice" in args) {
