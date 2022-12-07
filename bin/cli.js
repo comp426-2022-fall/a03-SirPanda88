@@ -15,7 +15,7 @@ if ('sides' in args) {
 if ('dice' in args) {
 	dice = args.dice;
 }
-if ("rolls" in args) {
+if ('rolls' in args) {
 	rolls = args.rolls;
 }
 
